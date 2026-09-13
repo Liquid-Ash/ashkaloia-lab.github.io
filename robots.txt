@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ashkaloia-lab.github.io/sitemap.xml
